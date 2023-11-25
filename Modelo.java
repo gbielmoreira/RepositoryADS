@@ -1,6 +1,6 @@
 import javax.management.openmbean.OpenDataException;
 
-public class Modelo {
+public class Calculadora {
     
     // Método para imprimir uma mensagem
 public void imprimirMensagem() {
