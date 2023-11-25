@@ -1,4 +1,4 @@
- public class Exemplo {
+ public class Calculadora {
 
     // Método para imprimir uma mensagem
     public void imprimirMensagem() {
